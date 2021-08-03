@@ -21,6 +21,8 @@ devol : Evolution of a diploid population evolving under a form of viability sel
 
 ******************* */
 
+A manuscript is in preparation, and a link will appear here to the (hopefully) published paper. 
+
 
 # example excursion
 
